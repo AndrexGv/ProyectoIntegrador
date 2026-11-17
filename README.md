@@ -1,4 +1,4 @@
 # ProyectoIntegrador
-Gonzalo Andre Galarza Vargas
-Alejandra Abigail Knaudt Garcia
-Nicole Cameli Chavez Ajhuacho
+<br> Gonzalo Andre Galarza Vargas
+<br> Alejandra Abigail Knaudt Garcia
+<br> Nicole Cameli Chavez Ajhuacho
