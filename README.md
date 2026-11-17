@@ -1,5 +1,5 @@
 # Proyecto Integrador
-<u>Intregrantes</u>
+<ins>**Intregrantes**</ins>
 <br> Gonzalo Andre Galarza Vargas
 <br> Alejandra Abigail Knaudt Garcia
 <br> Nicole Cameli Chavez Ajhuacho
