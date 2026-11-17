@@ -35,3 +35,10 @@ necesario, de acuerdo con las condiciones de funcionamiento y conexión.
 información.
 <br> 7. Respaldo: deberá contemplar copias de seguridad para reducir el riesgo de pérdida de
 información.
+<br> <ins>**Tecnologias**</ins>
+<br> Utilizamos Visual Studio para poder hacer el programa principal en Windows Forms
+<br> Utilizamos GitHub para la creacion del repositorio
+<br> Los comandos que utilizamos en GitHub fueron: git add . ; git commit -m ; git checkout ; git push
+<br> Utilizamos Trello para la asignacion de tareas
+<br> Utilizamos Draw.io para hacer los Esquemas y Diagramas ER
+<br> Utilizamos Visual Studio para la creacion de base de datos y Aiven para el guardado
