@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\NARIC\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\",
+  "WorkspaceRootPath": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\Proyecto Integrador\\ProyectoIntegrador\\Interfaz y Main\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA026FA9-A4F4-51F0-CD2F-795F069EF9D9}|NaricesFriasUI.csproj|c:\\users\\unifranz-fexco\\desktop\\naric\\naricesfriasui_solution_slnx\\naricesfriasui\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DA026FA9-A4F4-51F0-CD2F-795F069EF9D9}|NaricesFriasUI.csproj|c:\\users\\unifranz-fexco\\desktop\\proyecto integrador\\proyectointegrador\\interfaz y main\\naricesfriasui_solution_slnx\\naricesfriasui\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DA026FA9-A4F4-51F0-CD2F-795F069EF9D9}|NaricesFriasUI.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA026FA9-A4F4-51F0-CD2F-795F069EF9D9}|NaricesFriasUI.csproj|c:\\users\\unifranz-fexco\\desktop\\naric\\naricesfriasui_solution_slnx\\naricesfriasui\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA026FA9-A4F4-51F0-CD2F-795F069EF9D9}|NaricesFriasUI.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA026FA9-A4F4-51F0-CD2F-795F069EF9D9}|NaricesFriasUI.csproj|c:\\users\\unifranz-fexco\\desktop\\naric\\naricesfriasui_solution_slnx\\naricesfriasui\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA026FA9-A4F4-51F0-CD2F-795F069EF9D9}|NaricesFriasUI.csproj|solutionrelative:forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA026FA9-A4F4-51F0-CD2F-795F069EF9D9}|NaricesFriasUI.csproj|C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\NARIC\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DA026FA9-A4F4-51F0-CD2F-795F069EF9D9}|NaricesFriasUI.csproj|C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\Proyecto Integrador\\ProyectoIntegrador\\Interfaz y Main\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DA026FA9-A4F4-51F0-CD2F-795F069EF9D9}|NaricesFriasUI.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA026FA9-A4F4-51F0-CD2F-795F069EF9D9}|NaricesFriasUI.csproj|c:\\users\\unifranz-fexco\\desktop\\naric\\naricesfriasui_solution_slnx\\naricesfriasui\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA026FA9-A4F4-51F0-CD2F-795F069EF9D9}|NaricesFriasUI.csproj|c:\\users\\unifranz-fexco\\desktop\\proyecto integrador\\proyectointegrador\\interfaz y main\\naricesfriasui_solution_slnx\\naricesfriasui\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA026FA9-A4F4-51F0-CD2F-795F069EF9D9}|NaricesFriasUI.csproj|solutionrelative:forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA026FA9-A4F4-51F0-CD2F-795F069EF9D9}|NaricesFriasUI.csproj|c:\\users\\unifranz-fexco\\desktop\\proyecto integrador\\proyectointegrador\\interfaz y main\\naricesfriasui_solution_slnx\\naricesfriasui\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA026FA9-A4F4-51F0-CD2F-795F069EF9D9}|NaricesFriasUI.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA026FA9-A4F4-51F0-CD2F-795F069EF9D9}|NaricesFriasUI.csproj|c:\\users\\unifranz-fexco\\desktop\\proyecto integrador\\proyectointegrador\\interfaz y main\\naricesfriasui_solution_slnx\\naricesfriasui\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA026FA9-A4F4-51F0-CD2F-795F069EF9D9}|NaricesFriasUI.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,11 +34,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\NARIC\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\Forms\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\Proyecto Integrador\\ProyectoIntegrador\\Interfaz y Main\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\Forms\\LoginForm.cs",
               "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\NARIC\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\Proyecto Integrador\\ProyectoIntegrador\\Interfaz y Main\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\Forms\\LoginForm.cs",
               "RelativeToolTip": "Forms\\LoginForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -49,9 +49,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\NARIC\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\Forms\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\Proyecto Integrador\\ProyectoIntegrador\\Interfaz y Main\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\Forms\\MainForm.cs",
               "RelativeDocumentMoniker": "Forms\\MainForm.cs",
-              "ToolTip": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\NARIC\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\Proyecto Integrador\\ProyectoIntegrador\\Interfaz y Main\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\Forms\\MainForm.cs",
               "RelativeToolTip": "Forms\\MainForm.cs",
               "ViewState": "AgIAAIUAAAAAAAAAAAAIwJ8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,11 +62,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "LoginForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\NARIC\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\Forms\\LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\Proyecto Integrador\\ProyectoIntegrador\\Interfaz y Main\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\Forms\\LoginForm.Designer.cs",
               "RelativeDocumentMoniker": "Forms\\LoginForm.Designer.cs",
-              "ToolTip": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\NARIC\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\Forms\\LoginForm.Designer.cs",
-              "RelativeToolTip": "Forms\\LoginForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\Proyecto Integrador\\ProyectoIntegrador\\Interfaz y Main\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\Forms\\LoginForm.Designer.cs*",
+              "RelativeToolTip": "Forms\\LoginForm.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-24T14:07:35.889Z",
               "EditorCaption": ""
@@ -75,9 +75,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LoginForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\NARIC\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\Forms\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\Proyecto Integrador\\ProyectoIntegrador\\Interfaz y Main\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\Forms\\LoginForm.cs",
               "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\NARIC\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\Forms\\LoginForm.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\Proyecto Integrador\\ProyectoIntegrador\\Interfaz y Main\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\Forms\\LoginForm.cs [Dise\u00F1o]",
               "RelativeToolTip": "Forms\\LoginForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-24T14:07:26.244Z",
@@ -85,14 +85,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\NARIC\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\Forms\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\Proyecto Integrador\\ProyectoIntegrador\\Interfaz y Main\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\Forms\\MainForm.cs",
               "RelativeDocumentMoniker": "Forms\\MainForm.cs",
-              "ToolTip": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\NARIC\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\Forms\\MainForm.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\Proyecto Integrador\\ProyectoIntegrador\\Interfaz y Main\\NaricesFriasUI_Solution_SLNX\\NaricesFriasUI\\Forms\\MainForm.cs [Dise\u00F1o]",
               "RelativeToolTip": "Forms\\MainForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T14:08:03.942Z"
+              "WhenOpened": "2026-11-24T14:08:03.942Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
